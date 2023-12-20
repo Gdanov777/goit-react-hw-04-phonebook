@@ -13,7 +13,7 @@
   display: inline-block;
   margin-bottom: 16px;
   font-size: 15px;
-  color: #171718;
+  color: #0e0e0f;
   cursor: pointer;
 }
 
@@ -22,7 +22,7 @@
   font: inherit;
   padding: 5px;
   border-radius: 4px;
-  border: 1px solid #bdbdbd;
+  border: 1px solid #565555;
   outline: 0;
 }
 

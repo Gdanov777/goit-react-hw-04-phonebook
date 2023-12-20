@@ -8,14 +8,14 @@
 }
 
 .Filter__input {
-  color: #171718;
+  color: #0e0e0f;
   font: inherit;
   padding: 5px;
   border-radius: 4px;
-  border: 1px solid #bdbdbd;
+  border: 1px solid #565555;
   outline: 0;
 }
 
 .Filter__input:focus {
-  border: 1px solid #8488c4;
+  border: 1px solid #489090;
 }
